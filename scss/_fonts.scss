@@ -1,0 +1,8 @@
+@import "bourbon";
+
+@include font-face("HelveticaNeueCyr-Light", "../fonts/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light", $file-formats: woff ttf);
+@include font-face("HelveticaNeueCyr-Medium", "../fonts/HelveticaNeueCyr-Medium/HelveticaNeueCyr-Medium", $file-formats: woff ttf);
+@include font-face("HelveticaNeueCyr-Bold", "../fonts/HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold", $file-formats: woff ttf);
+@include font-face("HelveticaNeueCyr-Black", "../fonts/HelveticaNeueCyr-Black/HelveticaNeueCyr-Black", $file-formats: woff ttf);
+@include font-face("HelveticaNeueCyr-Thin", "../fonts/HelveticaNeueCyr-Thin/HelveticaNeueCyr-Thin", $file-formats: woff ttf);
+@include font-face("HelveticaNeueCyr-UltraLight_0", "../fonts/HelveticaNeueCyr-UltraLight_0/HelveticaNeueCyr-UltraLight_0", $file-formats: woff ttf);

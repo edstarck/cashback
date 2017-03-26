@@ -1,0 +1,16 @@
+@import "bourbon";
+
+$color-main:      #6d6e71; // основной цвет
+$color-secondary: #a20a75; // дополнительный цвет
+$color-accent:    #000000; // цвет текста
+
+$color-btn:  #631faf;
+$color-more: #3da000;
+
+$transition: all .3s ease;
+
+@mixin btn {
+  &:hover {
+
+  }
+}
